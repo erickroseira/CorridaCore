@@ -1,0 +1,11 @@
+/home/erickroseira/Documents/gympass/obj/Debug/netcoreapp2.2/gympass.csprojAssemblyReference.cache
+/home/erickroseira/Documents/gympass/obj/Debug/netcoreapp2.2/gympass.csproj.CoreCompileInputs.cache
+/home/erickroseira/Documents/gympass/obj/Debug/netcoreapp2.2/gympass.AssemblyInfoInputs.cache
+/home/erickroseira/Documents/gympass/obj/Debug/netcoreapp2.2/gympass.AssemblyInfo.cs
+/home/erickroseira/Documents/gympass/bin/Debug/netcoreapp2.2/gympass.deps.json
+/home/erickroseira/Documents/gympass/bin/Debug/netcoreapp2.2/gympass.runtimeconfig.json
+/home/erickroseira/Documents/gympass/bin/Debug/netcoreapp2.2/gympass.runtimeconfig.dev.json
+/home/erickroseira/Documents/gympass/bin/Debug/netcoreapp2.2/gympass.dll
+/home/erickroseira/Documents/gympass/bin/Debug/netcoreapp2.2/gympass.pdb
+/home/erickroseira/Documents/gympass/obj/Debug/netcoreapp2.2/gympass.dll
+/home/erickroseira/Documents/gympass/obj/Debug/netcoreapp2.2/gympass.pdb
