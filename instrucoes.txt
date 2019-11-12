@@ -1,7 +1,7 @@
   
 Para que a solução funcione corretamente é necessário assegurar que os seguintes tópicos serão atendidos:
 
--> 1. A solução foi desenvolvida em .NET Core 2.2. Neste caso é mandatório ter .NET CORE SDK e/ou .NET Core Runtime instalado.
+-> 1. A solução foi desenvolvida em .NET Core 2.2+. Neste caso é mandatório ter .NET CORE SDK e/ou .NET Core Runtime instalado.
       
 -> 2. Baseando-se no formato do log disponibilizado (respositório Gympass) é necessário que as colunas sejam separadas por dois ou mais 
       espaços, ou seja, o código irá definir como colunas termos separados por 2 ou mais espaços. No entanto o conteúdo de cada
@@ -27,7 +27,7 @@ Para que a solução funcione corretamente é necessário assegurar que os segui
 	  
       PORTANTO, ASSEGURE DE ESTAR SEGUINDO O PADRÃO CORRETO DO ARQUIVO DE LOG.
      
- -> 3. O projeto java foi criado no Visual Studio Code. Para rodar a solução siga os passos:
+ -> 3. O projeto foi criado no Visual Studio Code. Para rodar a solução siga os passos:
       
       3.1 -> Após baixar o projeto navegue na linha de comando para a seguinte diretório:
       
